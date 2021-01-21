@@ -7,6 +7,6 @@ title: 关于我
 
 ## 联系我
 
-- QQ&nbsp;&nbsp;&nbsp;&nbsp;: 83095323
+- QQ&nbsp;&nbsp;&nbsp; 83095323
 
 
